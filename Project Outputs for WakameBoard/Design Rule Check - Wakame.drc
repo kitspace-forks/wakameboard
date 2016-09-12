@@ -1,0 +1,1036 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Administrador\Desktop\WakameAltium\Wakame.PcbDoc
+Date     : 22/06/2016
+Time     : 21:03:25
+
+ERROR : More than 500 violations detected, DRC was stopped
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
+   Violation between Pad U$4-PWRON(85.12602mm,178.5366mm)  Top Layer and 
+                     Pad U$4-IRQ(84.62599mm,178.5366mm)  Top Layer
+   Violation between Pad U$4-PGND1(85.62599mm,178.5366mm)  Top Layer and 
+                     Pad U$4-PWRON(85.12602mm,178.5366mm)  Top Layer
+   Violation between Pad U$4-LX1(86.12602mm,178.5366mm)  Top Layer and 
+                     Pad U$4-PGND1(85.62599mm,178.5366mm)  Top Layer
+   Violation between Pad U$4-VIN1(86.62599mm,178.5366mm)  Top Layer and 
+                     Pad U$4-LX1(86.12602mm,178.5366mm)  Top Layer
+   Violation between Pad U$4-CHSENSE(87.12601mm,178.5366mm)  Top Layer and 
+                     Pad U$4-VIN1(86.62599mm,178.5366mm)  Top Layer
+   Violation between Track (87.376mm,178.5366mm)(87.376mm,179.24379mm)  Top Layer and 
+                     Pad U$4-CHSENSE(87.12601mm,178.5366mm)  Top Layer
+   Violation between Track (87.376mm,170.8912mm)(87.376mm,178.5366mm)  Top Layer and 
+                     Pad U$4-CHSENSE(87.12601mm,178.5366mm)  Top Layer
+   Violation between Track (87.376mm,178.5366mm)(87.376mm,179.24379mm)  Top Layer and 
+                     Pad U$4-BATSENSE(87.62599mm,178.5366mm)  Top Layer
+   Violation between Track (87.376mm,170.8912mm)(87.376mm,178.5366mm)  Top Layer and 
+                     Pad U$4-BATSENSE(87.62599mm,178.5366mm)  Top Layer
+   Violation between Pad U$4-LDO3IN(88.62598mm,178.5366mm)  Top Layer and 
+                     Pad U$4-LDO3(88.12601mm,178.5366mm)  Top Layer
+   Violation between Pad U$4-BAT1(89.12601mm,178.5366mm)  Top Layer and 
+                     Pad U$4-LDO3IN(88.62598mm,178.5366mm)  Top Layer
+   Violation between Pad U$4-CHGLED(90.6526mm,178.0286mm)  Top Layer and 
+                     Pad U$4-TS(90.1446mm,178.5366mm)  Top Layer
+   Violation between Track (90.6526mm,176.50998mm)(90.6526mm,177.01001mm)  Top Layer and 
+                     Pad U$4-IPSOUT1(90.6526mm,177.01001mm)  Top Layer
+   Violation between Track (90.6526mm,177.01001mm)(92.05219mm,177.01001mm)  Top Layer and 
+                     Pad U$4-IPSOUT1(90.6526mm,177.01001mm)  Top Layer
+   Violation between Track (90.6526mm,176.50998mm)(90.7796mm,176.50998mm)  Top Layer and 
+                     Pad U$4-ACIN(90.6526mm,176.50998mm)  Top Layer
+   Violation between Track (90.7796mm,176.01001mm)(90.7796mm,176.50998mm)  Top Layer and 
+                     Pad U$4-ACIN(90.6526mm,176.50998mm)  Top Layer
+   Violation between Track (90.6526mm,176.50998mm)(90.6526mm,177.01001mm)  Top Layer and 
+                     Pad U$4-ACIN(90.6526mm,176.50998mm)  Top Layer
+   Violation between Track (90.6526mm,175.50999mm)(90.6526mm,176.01001mm)  Top Layer and 
+                     Pad U$4-ACIN1(90.6526mm,176.01001mm)  Top Layer
+   Violation between Track (90.6526mm,176.01001mm)(90.7796mm,176.01001mm)  Top Layer and 
+                     Pad U$4-ACIN1(90.6526mm,176.01001mm)  Top Layer
+   Violation between Track (90.7796mm,176.01001mm)(90.7796mm,176.50998mm)  Top Layer and 
+                     Pad U$4-ACIN1(90.6526mm,176.01001mm)  Top Layer
+   Violation between Track (90.6526mm,175.50999mm)(90.6526mm,176.01001mm)  Top Layer and 
+                     Pad U$4-VBUS(90.6526mm,175.50999mm)  Top Layer
+   Violation between Pad U$4-LDO1(90.6526mm,174.01002mm)  Top Layer and 
+                     Pad U$4-DC3SET(90.6526mm,174.50999mm)  Top Layer
+   Violation between Track (91.0336mm,174.50999mm)(91.26083mm,174.28276mm)  Top Layer and 
+                     Pad U$4-DC3SET(90.6526mm,174.50999mm)  Top Layer
+   Violation between Track (90.6526mm,174.50999mm)(91.0336mm,174.50999mm)  Top Layer and 
+                     Pad U$4-DC3SET(90.6526mm,174.50999mm)  Top Layer
+   Violation between Pad U$4-PWREN(90.6526mm,173.50999mm)  Top Layer and 
+                     Pad U$4-LDO1(90.6526mm,174.01002mm)  Top Layer
+   Violation between Pad U$4-VINT(90.6526mm,173.01002mm)  Top Layer and 
+                     Pad U$4-PWREN(90.6526mm,173.50999mm)  Top Layer
+   Violation between Pad U$4-PWROK(90.6526mm,172.50999mm)  Top Layer and 
+                     Pad U$4-VINT(90.6526mm,173.01002mm)  Top Layer
+   Violation between Pad U$4-VREF(90.1446mm,171.98503mm)  Top Layer and 
+                     Pad U$4-PWROK(90.6526mm,172.50999mm)  Top Layer
+   Violation between Track (87.376mm,170.8912mm)(87.376mm,178.5366mm)  Top Layer and 
+                     Pad U$4-GPIO0(87.62599mm,171.98503mm)  Top Layer
+   Violation between Track (87.376mm,170.8912mm)(87.376mm,178.5366mm)  Top Layer and 
+                     Pad U$4-GPIO1(87.12601mm,171.98503mm)  Top Layer
+   Violation between Pad U$4-LX(85.62599mm,171.98503mm)  Top Layer and 
+                     Pad U$4-PGND3(86.12602mm,171.98503mm)  Top Layer
+   Violation between Pad U$4-VIN3(85.12602mm,171.98503mm)  Top Layer and 
+                     Pad U$4-LX(85.62599mm,171.98503mm)  Top Layer
+   Violation between Pad U$4-LX2(84.10103mm,174.50999mm)  Top Layer and 
+                     Pad U$4-PGND2(84.10103mm,174.01002mm)  Top Layer
+   Violation between Pad U$4-VIN2(84.10103mm,175.01001mm)  Top Layer and 
+                     Pad U$4-LX2(84.10103mm,174.50999mm)  Top Layer
+Rule Violations :34
+
+Processing Rule : Width Constraint (Min=0.2mm) (Max=0.2mm) (Preferred=0.2mm) (All)
+   Violation between Width Constraint: Arc (58.42mm,82.931mm)  Top Layer
+   Violation between Width Constraint: Arc (58.42mm,82.931mm)  Top Layer
+   Violation between Width Constraint: Arc (193.929mm,82.804mm)  Top Layer
+   Violation between Width Constraint: Arc (193.929mm,82.804mm)  Top Layer
+   Violation between Width Constraint: Arc (56.515mm,219.202mm)  Top Layer
+   Violation between Width Constraint: Arc (56.515mm,219.202mm)  Top Layer
+   Violation between Width Constraint: Arc (195.453mm,219.964mm)  Top Layer
+   Violation between Width Constraint: Arc (195.453mm,219.964mm)  Top Layer
+   Violation between Width Constraint: Arc (56.515mm,219.202mm)  Top Layer
+   Violation between Width Constraint: Arc (56.515mm,219.202mm)  Top Layer
+Rule Violations :10
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.254mm) (All),(All)
+   Violation between Text "T?" (139.8016mm,200.6346mm)  Top Overlay and 
+                     Arc (137.922mm,200.66mm)  Top Overlay
+   Violation between Text "R?" (161.6964mm,204.9526mm)  Top Overlay and 
+                     Arc (162.7378mm,208.28mm)  Top Overlay
+   Violation between Text "C?" (90.4494mm,149.3774mm)  Top Overlay and 
+                     Arc (91.948mm,150.749mm)  Top Overlay
+Rule Violations :3
+
+Processing Rule : Silk To Solder Mask (Clearance=0.254mm) (IsPad),(All)
+   Violation between Pad S1--G(75.438mm,92.456mm)  Multi-Layer and 
+                     Arc (76.708mm,92.456mm)  Top Overlay
+   Violation between Pad S1-+G(77.978mm,92.456mm)  Multi-Layer and 
+                     Arc (76.708mm,92.456mm)  Top Overlay
+   Violation between Pad S1--G(75.438mm,92.456mm)  Multi-Layer and 
+                     Arc (76.708mm,92.456mm)  Top Overlay
+   Violation between Pad S1-+G(77.978mm,92.456mm)  Multi-Layer and 
+                     Arc (76.708mm,92.456mm)  Top Overlay
+   Violation between Pad S1-+R(70.358mm,92.456mm)  Multi-Layer and 
+                     Arc (71.628mm,92.456mm)  Top Overlay
+   Violation between Pad S1--R(72.898mm,92.456mm)  Multi-Layer and 
+                     Arc (71.628mm,92.456mm)  Top Overlay
+   Violation between Pad S1-+R(70.358mm,92.456mm)  Multi-Layer and 
+                     Arc (71.628mm,92.456mm)  Top Overlay
+   Violation between Pad S1--R(72.898mm,92.456mm)  Multi-Layer and 
+                     Arc (71.628mm,92.456mm)  Top Overlay
+   Violation between Pad U$3-2(170.0784mm,187.70798mm)  Top Layer and 
+                     Arc (169.926mm,188.608mm)  Top Overlay
+   Violation between Pad U$3-47(169.037mm,188.75802mm)  Top Layer and 
+                     Arc (169.926mm,188.608mm)  Top Overlay
+   Violation between Pad U$3-EXP(172.339mm,191.008mm)  Top Layer and 
+                     Arc (169.926mm,188.608mm)  Top Overlay
+   Violation between Pad X1-1(187.76mm,208.28mm)  Multi-Layer and 
+                     Arc (187.76mm,208.28mm)  Top Overlay
+   Violation between Pad X1-1(162.7378mm,208.28mm)  Multi-Layer and 
+                     Arc (162.7378mm,208.28mm)  Top Overlay
+   Violation between Pad T?-1(127.381mm,221.80901mm)  Top Layer and 
+                     Arc (128.136mm,222.424mm)  Top Overlay
+Rule Violations :14
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.254mm) (All),(All)
+   Violation between Pad U$4-EXP(87.376mm,175.26mm)  Top Layer and 
+                     Pad U$4-IRQ(84.62599mm,178.5366mm)  Top Layer
+   Violation between Track (83.88101mm,178.1302mm)(84.32099mm,178.1302mm)  Top Solder and 
+                     Pad U$4-IRQ(84.62599mm,178.5366mm)  Top Layer
+   Violation between Track (84.32099mm,177.927mm)(84.32099mm,178.1302mm)  Top Solder and 
+                     Pad U$4-IRQ(84.62599mm,178.5366mm)  Top Layer
+   Violation between Track (83.88101mm,177.927mm)(84.32099mm,177.927mm)  Top Solder and 
+                     Pad U$4-IRQ(84.62599mm,178.5366mm)  Top Layer
+   Violation between Track (83.931mm,178.0286mm)(84.271mm,178.0286mm)  Top Solder and 
+                     Pad U$4-IRQ(84.62599mm,178.5366mm)  Top Layer
+   Violation between Track (85.03102mm,178.3334mm)(85.22101mm,178.3334mm)  Top Solder and 
+                     Pad U$4-IRQ(84.62599mm,178.5366mm)  Top Layer
+   Violation between Track (85.12602mm,178.3842mm)(85.12602mm,178.7144mm)  Top Solder and 
+                     Pad U$4-IRQ(84.62599mm,178.5366mm)  Top Layer
+   Violation between Track (85.03102mm,178.3334mm)(85.03102mm,178.7652mm)  Top Solder and 
+                     Pad U$4-IRQ(84.62599mm,178.5366mm)  Top Layer
+   Violation between Track (85.03102mm,178.7652mm)(85.22101mm,178.7652mm)  Top Solder and 
+                     Pad U$4-IRQ(84.62599mm,178.5366mm)  Top Layer
+   Violation between Pad U$4-EXP(87.376mm,175.26mm)  Top Layer and 
+                     Pad U$4-PWRON(85.12602mm,178.5366mm)  Top Layer
+   Violation between Track (84.531mm,178.3334mm)(84.72099mm,178.3334mm)  Top Solder and 
+                     Pad U$4-PWRON(85.12602mm,178.5366mm)  Top Layer
+   Violation between Track (84.62599mm,178.3842mm)(84.62599mm,178.7144mm)  Top Solder and 
+                     Pad U$4-PWRON(85.12602mm,178.5366mm)  Top Layer
+   Violation between Track (85.53099mm,178.3334mm)(85.72099mm,178.3334mm)  Top Solder and 
+                     Pad U$4-PWRON(85.12602mm,178.5366mm)  Top Layer
+   Violation between Track (85.62599mm,178.3842mm)(85.62599mm,178.7144mm)  Top Solder and 
+                     Pad U$4-PWRON(85.12602mm,178.5366mm)  Top Layer
+   Violation between Track (84.72099mm,178.3334mm)(84.72099mm,178.7652mm)  Top Solder and 
+                     Pad U$4-PWRON(85.12602mm,178.5366mm)  Top Layer
+   Violation between Track (84.531mm,178.7652mm)(84.72099mm,178.7652mm)  Top Solder and 
+                     Pad U$4-PWRON(85.12602mm,178.5366mm)  Top Layer
+   Violation between Track (85.53099mm,178.3334mm)(85.53099mm,178.7652mm)  Top Solder and 
+                     Pad U$4-PWRON(85.12602mm,178.5366mm)  Top Layer
+   Violation between Track (85.53099mm,178.7652mm)(85.72099mm,178.7652mm)  Top Solder and 
+                     Pad U$4-PWRON(85.12602mm,178.5366mm)  Top Layer
+   Violation between Pad U$4-EXP(87.376mm,175.26mm)  Top Layer and 
+                     Pad U$4-PGND1(85.62599mm,178.5366mm)  Top Layer
+   Violation between Track (85.03102mm,178.3334mm)(85.22101mm,178.3334mm)  Top Solder and 
+                     Pad U$4-PGND1(85.62599mm,178.5366mm)  Top Layer
+   Violation between Track (85.12602mm,178.3842mm)(85.12602mm,178.7144mm)  Top Solder and 
+                     Pad U$4-PGND1(85.62599mm,178.5366mm)  Top Layer
+   Violation between Track (86.03102mm,178.3334mm)(86.22101mm,178.3334mm)  Top Solder and 
+                     Pad U$4-PGND1(85.62599mm,178.5366mm)  Top Layer
+   Violation between Track (86.12602mm,178.3842mm)(86.12602mm,178.7144mm)  Top Solder and 
+                     Pad U$4-PGND1(85.62599mm,178.5366mm)  Top Layer
+   Violation between Track (85.22101mm,178.3334mm)(85.22101mm,178.7652mm)  Top Solder and 
+                     Pad U$4-PGND1(85.62599mm,178.5366mm)  Top Layer
+   Violation between Track (85.03102mm,178.7652mm)(85.22101mm,178.7652mm)  Top Solder and 
+                     Pad U$4-PGND1(85.62599mm,178.5366mm)  Top Layer
+   Violation between Track (86.03102mm,178.3334mm)(86.03102mm,178.7652mm)  Top Solder and 
+                     Pad U$4-PGND1(85.62599mm,178.5366mm)  Top Layer
+   Violation between Track (86.03102mm,178.7652mm)(86.22101mm,178.7652mm)  Top Solder and 
+                     Pad U$4-PGND1(85.62599mm,178.5366mm)  Top Layer
+   Violation between Pad U$4-EXP(87.376mm,175.26mm)  Top Layer and 
+                     Pad U$4-LX1(86.12602mm,178.5366mm)  Top Layer
+   Violation between Track (86.53099mm,178.3334mm)(86.72098mm,178.3334mm)  Top Solder and 
+                     Pad U$4-LX1(86.12602mm,178.5366mm)  Top Layer
+   Violation between Track (86.62599mm,178.3842mm)(86.62599mm,178.7144mm)  Top Solder and 
+                     Pad U$4-LX1(86.12602mm,178.5366mm)  Top Layer
+   Violation between Track (85.53099mm,178.3334mm)(85.72099mm,178.3334mm)  Top Solder and 
+                     Pad U$4-LX1(86.12602mm,178.5366mm)  Top Layer
+   Violation between Track (85.62599mm,178.3842mm)(85.62599mm,178.7144mm)  Top Solder and 
+                     Pad U$4-LX1(86.12602mm,178.5366mm)  Top Layer
+   Violation between Track (86.53099mm,178.3334mm)(86.53099mm,178.7652mm)  Top Solder and 
+                     Pad U$4-LX1(86.12602mm,178.5366mm)  Top Layer
+   Violation between Track (86.53099mm,178.7652mm)(86.72098mm,178.7652mm)  Top Solder and 
+                     Pad U$4-LX1(86.12602mm,178.5366mm)  Top Layer
+   Violation between Track (85.72099mm,178.3334mm)(85.72099mm,178.7652mm)  Top Solder and 
+                     Pad U$4-LX1(86.12602mm,178.5366mm)  Top Layer
+   Violation between Track (85.53099mm,178.7652mm)(85.72099mm,178.7652mm)  Top Solder and 
+                     Pad U$4-LX1(86.12602mm,178.5366mm)  Top Layer
+   Violation between Pad U$4-EXP(87.376mm,175.26mm)  Top Layer and 
+                     Pad U$4-VIN1(86.62599mm,178.5366mm)  Top Layer
+   Violation between Track (87.03102mm,178.3334mm)(87.22101mm,178.3334mm)  Top Solder and 
+                     Pad U$4-VIN1(86.62599mm,178.5366mm)  Top Layer
+   Violation between Track (87.12601mm,178.3842mm)(87.12601mm,178.7144mm)  Top Solder and 
+                     Pad U$4-VIN1(86.62599mm,178.5366mm)  Top Layer
+   Violation between Track (86.03102mm,178.3334mm)(86.22101mm,178.3334mm)  Top Solder and 
+                     Pad U$4-VIN1(86.62599mm,178.5366mm)  Top Layer
+   Violation between Track (86.12602mm,178.3842mm)(86.12602mm,178.7144mm)  Top Solder and 
+                     Pad U$4-VIN1(86.62599mm,178.5366mm)  Top Layer
+   Violation between Track (87.03102mm,178.3334mm)(87.03102mm,178.7652mm)  Top Solder and 
+                     Pad U$4-VIN1(86.62599mm,178.5366mm)  Top Layer
+   Violation between Track (87.03102mm,178.7652mm)(87.22101mm,178.7652mm)  Top Solder and 
+                     Pad U$4-VIN1(86.62599mm,178.5366mm)  Top Layer
+   Violation between Track (86.22101mm,178.3334mm)(86.22101mm,178.7652mm)  Top Solder and 
+                     Pad U$4-VIN1(86.62599mm,178.5366mm)  Top Layer
+   Violation between Track (86.03102mm,178.7652mm)(86.22101mm,178.7652mm)  Top Solder and 
+                     Pad U$4-VIN1(86.62599mm,178.5366mm)  Top Layer
+   Violation between Pad U$4-EXP(87.376mm,175.26mm)  Top Layer and 
+                     Pad U$4-CHSENSE(87.12601mm,178.5366mm)  Top Layer
+   Violation between Track (86.53099mm,178.3334mm)(86.72098mm,178.3334mm)  Top Solder and 
+                     Pad U$4-CHSENSE(87.12601mm,178.5366mm)  Top Layer
+   Violation between Track (86.62599mm,178.3842mm)(86.62599mm,178.7144mm)  Top Solder and 
+                     Pad U$4-CHSENSE(87.12601mm,178.5366mm)  Top Layer
+   Violation between Track (87.53099mm,178.3334mm)(87.72098mm,178.3334mm)  Top Solder and 
+                     Pad U$4-CHSENSE(87.12601mm,178.5366mm)  Top Layer
+   Violation between Track (87.62599mm,178.3842mm)(87.62599mm,178.7144mm)  Top Solder and 
+                     Pad U$4-CHSENSE(87.12601mm,178.5366mm)  Top Layer
+   Violation between Track (86.72098mm,178.3334mm)(86.72098mm,178.7652mm)  Top Solder and 
+                     Pad U$4-CHSENSE(87.12601mm,178.5366mm)  Top Layer
+   Violation between Track (86.53099mm,178.7652mm)(86.72098mm,178.7652mm)  Top Solder and 
+                     Pad U$4-CHSENSE(87.12601mm,178.5366mm)  Top Layer
+   Violation between Track (87.53099mm,178.3334mm)(87.53099mm,178.7652mm)  Top Solder and 
+                     Pad U$4-CHSENSE(87.12601mm,178.5366mm)  Top Layer
+   Violation between Track (87.53099mm,178.7652mm)(87.72098mm,178.7652mm)  Top Solder and 
+                     Pad U$4-CHSENSE(87.12601mm,178.5366mm)  Top Layer
+   Violation between Pad U$4-EXP(87.376mm,175.26mm)  Top Layer and 
+                     Pad U$4-BATSENSE(87.62599mm,178.5366mm)  Top Layer
+   Violation between Track (87.03102mm,178.3334mm)(87.22101mm,178.3334mm)  Top Solder and 
+                     Pad U$4-BATSENSE(87.62599mm,178.5366mm)  Top Layer
+   Violation between Track (87.12601mm,178.3842mm)(87.12601mm,178.7144mm)  Top Solder and 
+                     Pad U$4-BATSENSE(87.62599mm,178.5366mm)  Top Layer
+   Violation between Track (88.03102mm,178.3334mm)(88.22101mm,178.3334mm)  Top Solder and 
+                     Pad U$4-BATSENSE(87.62599mm,178.5366mm)  Top Layer
+   Violation between Track (88.12601mm,178.3842mm)(88.12601mm,178.7144mm)  Top Solder and 
+                     Pad U$4-BATSENSE(87.62599mm,178.5366mm)  Top Layer
+   Violation between Track (87.22101mm,178.3334mm)(87.22101mm,178.7652mm)  Top Solder and 
+                     Pad U$4-BATSENSE(87.62599mm,178.5366mm)  Top Layer
+   Violation between Track (87.03102mm,178.7652mm)(87.22101mm,178.7652mm)  Top Solder and 
+                     Pad U$4-BATSENSE(87.62599mm,178.5366mm)  Top Layer
+   Violation between Track (88.03102mm,178.3334mm)(88.03102mm,178.7652mm)  Top Solder and 
+                     Pad U$4-BATSENSE(87.62599mm,178.5366mm)  Top Layer
+   Violation between Track (88.03102mm,178.7652mm)(88.22101mm,178.7652mm)  Top Solder and 
+                     Pad U$4-BATSENSE(87.62599mm,178.5366mm)  Top Layer
+   Violation between Pad U$4-EXP(87.376mm,175.26mm)  Top Layer and 
+                     Pad U$4-LDO3(88.12601mm,178.5366mm)  Top Layer
+   Violation between Track (88.53099mm,178.3334mm)(88.72098mm,178.3334mm)  Top Solder and 
+                     Pad U$4-LDO3(88.12601mm,178.5366mm)  Top Layer
+   Violation between Track (88.62598mm,178.3842mm)(88.62598mm,178.7144mm)  Top Solder and 
+                     Pad U$4-LDO3(88.12601mm,178.5366mm)  Top Layer
+   Violation between Track (87.53099mm,178.3334mm)(87.72098mm,178.3334mm)  Top Solder and 
+                     Pad U$4-LDO3(88.12601mm,178.5366mm)  Top Layer
+   Violation between Track (87.62599mm,178.3842mm)(87.62599mm,178.7144mm)  Top Solder and 
+                     Pad U$4-LDO3(88.12601mm,178.5366mm)  Top Layer
+   Violation between Track (88.53099mm,178.3334mm)(88.53099mm,178.7652mm)  Top Solder and 
+                     Pad U$4-LDO3(88.12601mm,178.5366mm)  Top Layer
+   Violation between Track (88.53099mm,178.7652mm)(88.72098mm,178.7652mm)  Top Solder and 
+                     Pad U$4-LDO3(88.12601mm,178.5366mm)  Top Layer
+   Violation between Track (87.72098mm,178.3334mm)(87.72098mm,178.7652mm)  Top Solder and 
+                     Pad U$4-LDO3(88.12601mm,178.5366mm)  Top Layer
+   Violation between Track (87.53099mm,178.7652mm)(87.72098mm,178.7652mm)  Top Solder and 
+                     Pad U$4-LDO3(88.12601mm,178.5366mm)  Top Layer
+   Violation between Pad U$4-EXP(87.376mm,175.26mm)  Top Layer and 
+                     Pad U$4-LDO3IN(88.62598mm,178.5366mm)  Top Layer
+   Violation between Track (89.03101mm,178.3334mm)(89.22101mm,178.3334mm)  Top Solder and 
+                     Pad U$4-LDO3IN(88.62598mm,178.5366mm)  Top Layer
+   Violation between Track (89.12601mm,178.3842mm)(89.12601mm,178.7144mm)  Top Solder and 
+                     Pad U$4-LDO3IN(88.62598mm,178.5366mm)  Top Layer
+   Violation between Track (88.03102mm,178.3334mm)(88.22101mm,178.3334mm)  Top Solder and 
+                     Pad U$4-LDO3IN(88.62598mm,178.5366mm)  Top Layer
+   Violation between Track (88.12601mm,178.3842mm)(88.12601mm,178.7144mm)  Top Solder and 
+                     Pad U$4-LDO3IN(88.62598mm,178.5366mm)  Top Layer
+   Violation between Track (89.03101mm,178.3334mm)(89.03101mm,178.7652mm)  Top Solder and 
+                     Pad U$4-LDO3IN(88.62598mm,178.5366mm)  Top Layer
+   Violation between Track (89.03101mm,178.7652mm)(89.22101mm,178.7652mm)  Top Solder and 
+                     Pad U$4-LDO3IN(88.62598mm,178.5366mm)  Top Layer
+   Violation between Track (88.22101mm,178.3334mm)(88.22101mm,178.7652mm)  Top Solder and 
+                     Pad U$4-LDO3IN(88.62598mm,178.5366mm)  Top Layer
+   Violation between Track (88.03102mm,178.7652mm)(88.22101mm,178.7652mm)  Top Solder and 
+                     Pad U$4-LDO3IN(88.62598mm,178.5366mm)  Top Layer
+   Violation between Pad U$4-EXP(87.376mm,175.26mm)  Top Layer and 
+                     Pad U$4-BAT1(89.12601mm,178.5366mm)  Top Layer
+   Violation between Track (88.53099mm,178.3334mm)(88.72098mm,178.3334mm)  Top Solder and 
+                     Pad U$4-BAT1(89.12601mm,178.5366mm)  Top Layer
+   Violation between Track (88.62598mm,178.3842mm)(88.62598mm,178.7144mm)  Top Solder and 
+                     Pad U$4-BAT1(89.12601mm,178.5366mm)  Top Layer
+   Violation between Track (89.53099mm,178.3334mm)(89.72098mm,178.3334mm)  Top Solder and 
+                     Pad U$4-BAT1(89.12601mm,178.5366mm)  Top Layer
+   Violation between Track (89.62598mm,178.3842mm)(89.62598mm,178.7144mm)  Top Solder and 
+                     Pad U$4-BAT1(89.12601mm,178.5366mm)  Top Layer
+   Violation between Track (88.72098mm,178.3334mm)(88.72098mm,178.7652mm)  Top Solder and 
+                     Pad U$4-BAT1(89.12601mm,178.5366mm)  Top Layer
+   Violation between Track (88.53099mm,178.7652mm)(88.72098mm,178.7652mm)  Top Solder and 
+                     Pad U$4-BAT1(89.12601mm,178.5366mm)  Top Layer
+   Violation between Track (89.53099mm,178.3334mm)(89.53099mm,178.7652mm)  Top Solder and 
+                     Pad U$4-BAT1(89.12601mm,178.5366mm)  Top Layer
+   Violation between Track (89.53099mm,178.7652mm)(89.72098mm,178.7652mm)  Top Solder and 
+                     Pad U$4-BAT1(89.12601mm,178.5366mm)  Top Layer
+   Violation between Pad U$4-EXP(87.376mm,175.26mm)  Top Layer and 
+                     Pad U$4-BAT(89.62598mm,178.5366mm)  Top Layer
+   Violation between Track (89.03101mm,178.3334mm)(89.22101mm,178.3334mm)  Top Solder and 
+                     Pad U$4-BAT(89.62598mm,178.5366mm)  Top Layer
+   Violation between Track (89.12601mm,178.3842mm)(89.12601mm,178.7144mm)  Top Solder and 
+                     Pad U$4-BAT(89.62598mm,178.5366mm)  Top Layer
+   Violation between Track (90.043mm,178.3334mm)(90.2462mm,178.3334mm)  Top Solder and 
+                     Pad U$4-BAT(89.62598mm,178.5366mm)  Top Layer
+   Violation between Track (90.1446mm,178.3842mm)(90.1446mm,178.7144mm)  Top Solder and 
+                     Pad U$4-BAT(89.62598mm,178.5366mm)  Top Layer
+   Violation between Track (89.22101mm,178.3334mm)(89.22101mm,178.7652mm)  Top Solder and 
+                     Pad U$4-BAT(89.62598mm,178.5366mm)  Top Layer
+   Violation between Track (89.03101mm,178.7652mm)(89.22101mm,178.7652mm)  Top Solder and 
+                     Pad U$4-BAT(89.62598mm,178.5366mm)  Top Layer
+   Violation between Track (90.043mm,178.3334mm)(90.043mm,178.7652mm)  Top Solder and 
+                     Pad U$4-BAT(89.62598mm,178.5366mm)  Top Layer
+   Violation between Track (90.043mm,178.7652mm)(90.2462mm,178.7652mm)  Top Solder and 
+                     Pad U$4-BAT(89.62598mm,178.5366mm)  Top Layer
+   Violation between Pad U$4-EXP(87.376mm,175.26mm)  Top Layer and 
+                     Pad U$4-TS(90.1446mm,178.5366mm)  Top Layer
+   Violation between Track (90.4494mm,177.927mm)(90.8812mm,177.927mm)  Top Solder and 
+                     Pad U$4-TS(90.1446mm,178.5366mm)  Top Layer
+   Violation between Track (90.4494mm,177.927mm)(90.4494mm,178.1302mm)  Top Solder and 
+                     Pad U$4-TS(90.1446mm,178.5366mm)  Top Layer
+   Violation between Track (90.4494mm,178.1302mm)(90.8812mm,178.1302mm)  Top Solder and 
+                     Pad U$4-TS(90.1446mm,178.5366mm)  Top Layer
+   Violation between Track (90.5002mm,178.0286mm)(90.8304mm,178.0286mm)  Top Solder and 
+                     Pad U$4-TS(90.1446mm,178.5366mm)  Top Layer
+   Violation between Track (89.53099mm,178.3334mm)(89.72098mm,178.3334mm)  Top Solder and 
+                     Pad U$4-TS(90.1446mm,178.5366mm)  Top Layer
+   Violation between Track (89.62598mm,178.3842mm)(89.62598mm,178.7144mm)  Top Solder and 
+                     Pad U$4-TS(90.1446mm,178.5366mm)  Top Layer
+   Violation between Track (89.72098mm,178.3334mm)(89.72098mm,178.7652mm)  Top Solder and 
+                     Pad U$4-TS(90.1446mm,178.5366mm)  Top Layer
+   Violation between Track (89.53099mm,178.7652mm)(89.72098mm,178.7652mm)  Top Solder and 
+                     Pad U$4-TS(90.1446mm,178.5366mm)  Top Layer
+   Violation between Pad U$4-EXP(87.376mm,175.26mm)  Top Layer and 
+                     Pad U$4-CHGLED(90.6526mm,178.0286mm)  Top Layer
+   Violation between Track (90.4494mm,177.41499mm)(90.4494mm,177.60498mm)  Top Solder and 
+                     Pad U$4-CHGLED(90.6526mm,178.0286mm)  Top Layer
+   Violation between Track (90.4494mm,177.60498mm)(90.8812mm,177.60498mm)  Top Solder and 
+                     Pad U$4-CHGLED(90.6526mm,178.0286mm)  Top Layer
+   Violation between Track (90.8812mm,177.41499mm)(90.8812mm,177.60498mm)  Top Solder and 
+                     Pad U$4-CHGLED(90.6526mm,178.0286mm)  Top Layer
+   Violation between Track (90.5002mm,177.50998mm)(90.8304mm,177.50998mm)  Top Solder and 
+                     Pad U$4-CHGLED(90.6526mm,178.0286mm)  Top Layer
+   Violation between Track (90.043mm,178.3334mm)(90.2462mm,178.3334mm)  Top Solder and 
+                     Pad U$4-CHGLED(90.6526mm,178.0286mm)  Top Layer
+   Violation between Track (90.1446mm,178.3842mm)(90.1446mm,178.7144mm)  Top Solder and 
+                     Pad U$4-CHGLED(90.6526mm,178.0286mm)  Top Layer
+   Violation between Track (90.2462mm,178.3334mm)(90.2462mm,178.7652mm)  Top Solder and 
+                     Pad U$4-CHGLED(90.6526mm,178.0286mm)  Top Layer
+   Violation between Track (90.043mm,178.3334mm)(90.043mm,178.7652mm)  Top Solder and 
+                     Pad U$4-CHGLED(90.6526mm,178.0286mm)  Top Layer
+   Violation between Pad U$4-EXP(87.376mm,175.26mm)  Top Layer and 
+                     Pad U$4-IPSOUT(90.6526mm,177.50998mm)  Top Layer
+   Violation between Track (90.4494mm,176.91501mm)(90.4494mm,177.10501mm)  Top Solder and 
+                     Pad U$4-IPSOUT(90.6526mm,177.50998mm)  Top Layer
+   Violation between Track (90.4494mm,177.10501mm)(90.8812mm,177.10501mm)  Top Solder and 
+                     Pad U$4-IPSOUT(90.6526mm,177.50998mm)  Top Layer
+   Violation between Track (90.8812mm,176.91501mm)(90.8812mm,177.10501mm)  Top Solder and 
+                     Pad U$4-IPSOUT(90.6526mm,177.50998mm)  Top Layer
+   Violation between Track (90.5002mm,177.01001mm)(90.8304mm,177.01001mm)  Top Solder and 
+                     Pad U$4-IPSOUT(90.6526mm,177.50998mm)  Top Layer
+   Violation between Track (90.4494mm,177.927mm)(90.8812mm,177.927mm)  Top Solder and 
+                     Pad U$4-IPSOUT(90.6526mm,177.50998mm)  Top Layer
+   Violation between Track (90.4494mm,177.927mm)(90.4494mm,178.1302mm)  Top Solder and 
+                     Pad U$4-IPSOUT(90.6526mm,177.50998mm)  Top Layer
+   Violation between Track (90.8812mm,177.927mm)(90.8812mm,178.1302mm)  Top Solder and 
+                     Pad U$4-IPSOUT(90.6526mm,177.50998mm)  Top Layer
+   Violation between Track (90.5002mm,178.0286mm)(90.8304mm,178.0286mm)  Top Solder and 
+                     Pad U$4-IPSOUT(90.6526mm,177.50998mm)  Top Layer
+   Violation between Pad U$4-EXP(87.376mm,175.26mm)  Top Layer and 
+                     Pad U$4-IPSOUT1(90.6526mm,177.01001mm)  Top Layer
+   Violation between Track (90.4494mm,176.41499mm)(90.4494mm,176.60498mm)  Top Solder and 
+                     Pad U$4-IPSOUT1(90.6526mm,177.01001mm)  Top Layer
+   Violation between Track (90.4494mm,176.60498mm)(90.8812mm,176.60498mm)  Top Solder and 
+                     Pad U$4-IPSOUT1(90.6526mm,177.01001mm)  Top Layer
+   Violation between Track (90.8812mm,176.41499mm)(90.8812mm,176.60498mm)  Top Solder and 
+                     Pad U$4-IPSOUT1(90.6526mm,177.01001mm)  Top Layer
+   Violation between Track (90.5002mm,176.50998mm)(90.8304mm,176.50998mm)  Top Solder and 
+                     Pad U$4-IPSOUT1(90.6526mm,177.01001mm)  Top Layer
+   Violation between Track (90.4494mm,177.41499mm)(90.8812mm,177.41499mm)  Top Solder and 
+                     Pad U$4-IPSOUT1(90.6526mm,177.01001mm)  Top Layer
+   Violation between Track (90.4494mm,177.41499mm)(90.4494mm,177.60498mm)  Top Solder and 
+                     Pad U$4-IPSOUT1(90.6526mm,177.01001mm)  Top Layer
+   Violation between Track (90.8812mm,177.41499mm)(90.8812mm,177.60498mm)  Top Solder and 
+                     Pad U$4-IPSOUT1(90.6526mm,177.01001mm)  Top Layer
+   Violation between Track (90.5002mm,177.50998mm)(90.8304mm,177.50998mm)  Top Solder and 
+                     Pad U$4-IPSOUT1(90.6526mm,177.01001mm)  Top Layer
+   Violation between Pad U$4-EXP(87.376mm,175.26mm)  Top Layer and 
+                     Pad U$4-ACIN(90.6526mm,176.50998mm)  Top Layer
+   Violation between Track (90.4494mm,175.91502mm)(90.4494mm,176.10501mm)  Top Solder and 
+                     Pad U$4-ACIN(90.6526mm,176.50998mm)  Top Layer
+   Violation between Track (90.4494mm,176.10501mm)(90.8812mm,176.10501mm)  Top Solder and 
+                     Pad U$4-ACIN(90.6526mm,176.50998mm)  Top Layer
+   Violation between Track (90.8812mm,175.91502mm)(90.8812mm,176.10501mm)  Top Solder and 
+                     Pad U$4-ACIN(90.6526mm,176.50998mm)  Top Layer
+   Violation between Track (90.5002mm,176.01001mm)(90.8304mm,176.01001mm)  Top Solder and 
+                     Pad U$4-ACIN(90.6526mm,176.50998mm)  Top Layer
+   Violation between Track (90.4494mm,176.91501mm)(90.8812mm,176.91501mm)  Top Solder and 
+                     Pad U$4-ACIN(90.6526mm,176.50998mm)  Top Layer
+   Violation between Track (90.4494mm,176.91501mm)(90.4494mm,177.10501mm)  Top Solder and 
+                     Pad U$4-ACIN(90.6526mm,176.50998mm)  Top Layer
+   Violation between Track (90.8812mm,176.91501mm)(90.8812mm,177.10501mm)  Top Solder and 
+                     Pad U$4-ACIN(90.6526mm,176.50998mm)  Top Layer
+   Violation between Track (90.5002mm,177.01001mm)(90.8304mm,177.01001mm)  Top Solder and 
+                     Pad U$4-ACIN(90.6526mm,176.50998mm)  Top Layer
+   Violation between Pad U$4-EXP(87.376mm,175.26mm)  Top Layer and 
+                     Pad U$4-ACIN1(90.6526mm,176.01001mm)  Top Layer
+   Violation between Track (90.4494mm,175.41499mm)(90.4494mm,175.60498mm)  Top Solder and 
+                     Pad U$4-ACIN1(90.6526mm,176.01001mm)  Top Layer
+   Violation between Track (90.4494mm,175.60498mm)(90.8812mm,175.60498mm)  Top Solder and 
+                     Pad U$4-ACIN1(90.6526mm,176.01001mm)  Top Layer
+   Violation between Track (90.8812mm,175.41499mm)(90.8812mm,175.60498mm)  Top Solder and 
+                     Pad U$4-ACIN1(90.6526mm,176.01001mm)  Top Layer
+   Violation between Track (90.5002mm,175.50999mm)(90.8304mm,175.50999mm)  Top Solder and 
+                     Pad U$4-ACIN1(90.6526mm,176.01001mm)  Top Layer
+   Violation between Track (90.4494mm,176.41499mm)(90.8812mm,176.41499mm)  Top Solder and 
+                     Pad U$4-ACIN1(90.6526mm,176.01001mm)  Top Layer
+   Violation between Track (90.4494mm,176.41499mm)(90.4494mm,176.60498mm)  Top Solder and 
+                     Pad U$4-ACIN1(90.6526mm,176.01001mm)  Top Layer
+   Violation between Track (90.8812mm,176.41499mm)(90.8812mm,176.60498mm)  Top Solder and 
+                     Pad U$4-ACIN1(90.6526mm,176.01001mm)  Top Layer
+   Violation between Track (90.5002mm,176.50998mm)(90.8304mm,176.50998mm)  Top Solder and 
+                     Pad U$4-ACIN1(90.6526mm,176.01001mm)  Top Layer
+   Violation between Pad U$4-EXP(87.376mm,175.26mm)  Top Layer and 
+                     Pad U$4-VBUS(90.6526mm,175.50999mm)  Top Layer
+   Violation between Track (90.4494mm,174.91502mm)(90.4494mm,175.10501mm)  Top Solder and 
+                     Pad U$4-VBUS(90.6526mm,175.50999mm)  Top Layer
+   Violation between Track (90.4494mm,175.10501mm)(90.8812mm,175.10501mm)  Top Solder and 
+                     Pad U$4-VBUS(90.6526mm,175.50999mm)  Top Layer
+   Violation between Track (90.8812mm,174.91502mm)(90.8812mm,175.10501mm)  Top Solder and 
+                     Pad U$4-VBUS(90.6526mm,175.50999mm)  Top Layer
+   Violation between Track (90.5002mm,175.01001mm)(90.8304mm,175.01001mm)  Top Solder and 
+                     Pad U$4-VBUS(90.6526mm,175.50999mm)  Top Layer
+   Violation between Track (90.4494mm,175.91502mm)(90.8812mm,175.91502mm)  Top Solder and 
+                     Pad U$4-VBUS(90.6526mm,175.50999mm)  Top Layer
+   Violation between Track (90.4494mm,175.91502mm)(90.4494mm,176.10501mm)  Top Solder and 
+                     Pad U$4-VBUS(90.6526mm,175.50999mm)  Top Layer
+   Violation between Track (90.8812mm,175.91502mm)(90.8812mm,176.10501mm)  Top Solder and 
+                     Pad U$4-VBUS(90.6526mm,175.50999mm)  Top Layer
+   Violation between Track (90.5002mm,176.01001mm)(90.8304mm,176.01001mm)  Top Solder and 
+                     Pad U$4-VBUS(90.6526mm,175.50999mm)  Top Layer
+   Violation between Pad U$4-EXP(87.376mm,175.26mm)  Top Layer and 
+                     Pad U$4-BACKUP(90.6526mm,175.01001mm)  Top Layer
+   Violation between Track (90.4494mm,174.41499mm)(90.4494mm,174.60498mm)  Top Solder and 
+                     Pad U$4-BACKUP(90.6526mm,175.01001mm)  Top Layer
+   Violation between Track (90.4494mm,174.60498mm)(90.8812mm,174.60498mm)  Top Solder and 
+                     Pad U$4-BACKUP(90.6526mm,175.01001mm)  Top Layer
+   Violation between Track (90.8812mm,174.41499mm)(90.8812mm,174.60498mm)  Top Solder and 
+                     Pad U$4-BACKUP(90.6526mm,175.01001mm)  Top Layer
+   Violation between Track (90.5002mm,174.50999mm)(90.8304mm,174.50999mm)  Top Solder and 
+                     Pad U$4-BACKUP(90.6526mm,175.01001mm)  Top Layer
+   Violation between Track (90.4494mm,175.41499mm)(90.8812mm,175.41499mm)  Top Solder and 
+                     Pad U$4-BACKUP(90.6526mm,175.01001mm)  Top Layer
+   Violation between Track (90.4494mm,175.41499mm)(90.4494mm,175.60498mm)  Top Solder and 
+                     Pad U$4-BACKUP(90.6526mm,175.01001mm)  Top Layer
+   Violation between Track (90.8812mm,175.41499mm)(90.8812mm,175.60498mm)  Top Solder and 
+                     Pad U$4-BACKUP(90.6526mm,175.01001mm)  Top Layer
+   Violation between Track (90.5002mm,175.50999mm)(90.8304mm,175.50999mm)  Top Solder and 
+                     Pad U$4-BACKUP(90.6526mm,175.01001mm)  Top Layer
+   Violation between Pad U$4-EXP(87.376mm,175.26mm)  Top Layer and 
+                     Pad U$4-DC3SET(90.6526mm,174.50999mm)  Top Layer
+   Violation between Track (90.4494mm,173.91502mm)(90.4494mm,174.10501mm)  Top Solder and 
+                     Pad U$4-DC3SET(90.6526mm,174.50999mm)  Top Layer
+   Violation between Track (90.4494mm,174.10501mm)(90.8812mm,174.10501mm)  Top Solder and 
+                     Pad U$4-DC3SET(90.6526mm,174.50999mm)  Top Layer
+   Violation between Track (90.8812mm,173.91502mm)(90.8812mm,174.10501mm)  Top Solder and 
+                     Pad U$4-DC3SET(90.6526mm,174.50999mm)  Top Layer
+   Violation between Track (90.5002mm,174.01002mm)(90.8304mm,174.01002mm)  Top Solder and 
+                     Pad U$4-DC3SET(90.6526mm,174.50999mm)  Top Layer
+   Violation between Track (90.4494mm,174.91502mm)(90.8812mm,174.91502mm)  Top Solder and 
+                     Pad U$4-DC3SET(90.6526mm,174.50999mm)  Top Layer
+   Violation between Track (90.4494mm,174.91502mm)(90.4494mm,175.10501mm)  Top Solder and 
+                     Pad U$4-DC3SET(90.6526mm,174.50999mm)  Top Layer
+   Violation between Track (90.8812mm,174.91502mm)(90.8812mm,175.10501mm)  Top Solder and 
+                     Pad U$4-DC3SET(90.6526mm,174.50999mm)  Top Layer
+   Violation between Track (90.5002mm,175.01001mm)(90.8304mm,175.01001mm)  Top Solder and 
+                     Pad U$4-DC3SET(90.6526mm,174.50999mm)  Top Layer
+   Violation between Pad U$4-EXP(87.376mm,175.26mm)  Top Layer and 
+                     Pad U$4-LDO1(90.6526mm,174.01002mm)  Top Layer
+   Violation between Track (90.4494mm,173.41499mm)(90.4494mm,173.60499mm)  Top Solder and 
+                     Pad U$4-LDO1(90.6526mm,174.01002mm)  Top Layer
+   Violation between Track (90.4494mm,173.60499mm)(90.8812mm,173.60499mm)  Top Solder and 
+                     Pad U$4-LDO1(90.6526mm,174.01002mm)  Top Layer
+   Violation between Track (90.8812mm,173.41499mm)(90.8812mm,173.60499mm)  Top Solder and 
+                     Pad U$4-LDO1(90.6526mm,174.01002mm)  Top Layer
+   Violation between Track (90.5002mm,173.50999mm)(90.8304mm,173.50999mm)  Top Solder and 
+                     Pad U$4-LDO1(90.6526mm,174.01002mm)  Top Layer
+   Violation between Track (90.4494mm,174.41499mm)(90.8812mm,174.41499mm)  Top Solder and 
+                     Pad U$4-LDO1(90.6526mm,174.01002mm)  Top Layer
+   Violation between Track (90.4494mm,174.41499mm)(90.4494mm,174.60498mm)  Top Solder and 
+                     Pad U$4-LDO1(90.6526mm,174.01002mm)  Top Layer
+   Violation between Track (90.8812mm,174.41499mm)(90.8812mm,174.60498mm)  Top Solder and 
+                     Pad U$4-LDO1(90.6526mm,174.01002mm)  Top Layer
+   Violation between Track (90.5002mm,174.50999mm)(90.8304mm,174.50999mm)  Top Solder and 
+                     Pad U$4-LDO1(90.6526mm,174.01002mm)  Top Layer
+   Violation between Pad U$4-EXP(87.376mm,175.26mm)  Top Layer and 
+                     Pad U$4-PWREN(90.6526mm,173.50999mm)  Top Layer
+   Violation between Track (90.4494mm,172.91502mm)(90.4494mm,173.10501mm)  Top Solder and 
+                     Pad U$4-PWREN(90.6526mm,173.50999mm)  Top Layer
+   Violation between Track (90.4494mm,173.10501mm)(90.8812mm,173.10501mm)  Top Solder and 
+                     Pad U$4-PWREN(90.6526mm,173.50999mm)  Top Layer
+   Violation between Track (90.8812mm,172.91502mm)(90.8812mm,173.10501mm)  Top Solder and 
+                     Pad U$4-PWREN(90.6526mm,173.50999mm)  Top Layer
+   Violation between Track (90.5002mm,173.01002mm)(90.8304mm,173.01002mm)  Top Solder and 
+                     Pad U$4-PWREN(90.6526mm,173.50999mm)  Top Layer
+   Violation between Track (90.4494mm,173.91502mm)(90.8812mm,173.91502mm)  Top Solder and 
+                     Pad U$4-PWREN(90.6526mm,173.50999mm)  Top Layer
+   Violation between Track (90.4494mm,173.91502mm)(90.4494mm,174.10501mm)  Top Solder and 
+                     Pad U$4-PWREN(90.6526mm,173.50999mm)  Top Layer
+   Violation between Track (90.8812mm,173.91502mm)(90.8812mm,174.10501mm)  Top Solder and 
+                     Pad U$4-PWREN(90.6526mm,173.50999mm)  Top Layer
+   Violation between Track (90.5002mm,174.01002mm)(90.8304mm,174.01002mm)  Top Solder and 
+                     Pad U$4-PWREN(90.6526mm,173.50999mm)  Top Layer
+   Violation between Pad U$4-EXP(87.376mm,175.26mm)  Top Layer and 
+                     Pad U$4-VINT(90.6526mm,173.01002mm)  Top Layer
+   Violation between Track (90.4494mm,172.415mm)(90.4494mm,172.60499mm)  Top Solder and 
+                     Pad U$4-VINT(90.6526mm,173.01002mm)  Top Layer
+   Violation between Track (90.4494mm,172.60499mm)(90.8812mm,172.60499mm)  Top Solder and 
+                     Pad U$4-VINT(90.6526mm,173.01002mm)  Top Layer
+   Violation between Track (90.8812mm,172.415mm)(90.8812mm,172.60499mm)  Top Solder and 
+                     Pad U$4-VINT(90.6526mm,173.01002mm)  Top Layer
+   Violation between Track (90.5002mm,172.50999mm)(90.8304mm,172.50999mm)  Top Solder and 
+                     Pad U$4-VINT(90.6526mm,173.01002mm)  Top Layer
+   Violation between Track (90.4494mm,173.41499mm)(90.8812mm,173.41499mm)  Top Solder and 
+                     Pad U$4-VINT(90.6526mm,173.01002mm)  Top Layer
+   Violation between Track (90.4494mm,173.41499mm)(90.4494mm,173.60499mm)  Top Solder and 
+                     Pad U$4-VINT(90.6526mm,173.01002mm)  Top Layer
+   Violation between Track (90.8812mm,173.41499mm)(90.8812mm,173.60499mm)  Top Solder and 
+                     Pad U$4-VINT(90.6526mm,173.01002mm)  Top Layer
+   Violation between Track (90.5002mm,173.50999mm)(90.8304mm,173.50999mm)  Top Solder and 
+                     Pad U$4-VINT(90.6526mm,173.01002mm)  Top Layer
+   Violation between Pad U$4-EXP(87.376mm,175.26mm)  Top Layer and 
+                     Pad U$4-PWROK(90.6526mm,172.50999mm)  Top Layer
+   Violation between Track (90.043mm,171.76501mm)(90.043mm,172.20499mm)  Top Solder and 
+                     Pad U$4-PWROK(90.6526mm,172.50999mm)  Top Layer
+   Violation between Track (90.043mm,172.20499mm)(90.2462mm,172.20499mm)  Top Solder and 
+                     Pad U$4-PWROK(90.6526mm,172.50999mm)  Top Layer
+   Violation between Track (90.2462mm,171.76501mm)(90.2462mm,172.20499mm)  Top Solder and 
+                     Pad U$4-PWROK(90.6526mm,172.50999mm)  Top Layer
+   Violation between Track (90.1446mm,171.815mm)(90.1446mm,172.155mm)  Top Solder and 
+                     Pad U$4-PWROK(90.6526mm,172.50999mm)  Top Layer
+   Violation between Track (90.4494mm,172.91502mm)(90.8812mm,172.91502mm)  Top Solder and 
+                     Pad U$4-PWROK(90.6526mm,172.50999mm)  Top Layer
+   Violation between Track (90.4494mm,172.91502mm)(90.4494mm,173.10501mm)  Top Solder and 
+                     Pad U$4-PWROK(90.6526mm,172.50999mm)  Top Layer
+   Violation between Track (90.8812mm,172.91502mm)(90.8812mm,173.10501mm)  Top Solder and 
+                     Pad U$4-PWROK(90.6526mm,172.50999mm)  Top Layer
+   Violation between Track (90.5002mm,173.01002mm)(90.8304mm,173.01002mm)  Top Solder and 
+                     Pad U$4-PWROK(90.6526mm,172.50999mm)  Top Layer
+   Violation between Pad U$4-EXP(87.376mm,175.26mm)  Top Layer and 
+                     Pad U$4-VREF(90.1446mm,171.98503mm)  Top Layer
+   Violation between Track (89.53099mm,172.20499mm)(89.72098mm,172.20499mm)  Top Solder and 
+                     Pad U$4-VREF(90.1446mm,171.98503mm)  Top Layer
+   Violation between Track (89.72098mm,171.76501mm)(89.72098mm,172.20499mm)  Top Solder and 
+                     Pad U$4-VREF(90.1446mm,171.98503mm)  Top Layer
+   Violation between Track (89.53099mm,171.76501mm)(89.72098mm,171.76501mm)  Top Solder and 
+                     Pad U$4-VREF(90.1446mm,171.98503mm)  Top Layer
+   Violation between Track (89.62598mm,171.815mm)(89.62598mm,172.155mm)  Top Solder and 
+                     Pad U$4-VREF(90.1446mm,171.98503mm)  Top Layer
+   Violation between Track (90.4494mm,172.415mm)(90.8812mm,172.415mm)  Top Solder and 
+                     Pad U$4-VREF(90.1446mm,171.98503mm)  Top Layer
+   Violation between Track (90.4494mm,172.415mm)(90.4494mm,172.60499mm)  Top Solder and 
+                     Pad U$4-VREF(90.1446mm,171.98503mm)  Top Layer
+   Violation between Track (90.4494mm,172.60499mm)(90.8812mm,172.60499mm)  Top Solder and 
+                     Pad U$4-VREF(90.1446mm,171.98503mm)  Top Layer
+   Violation between Track (90.5002mm,172.50999mm)(90.8304mm,172.50999mm)  Top Solder and 
+                     Pad U$4-VREF(90.1446mm,171.98503mm)  Top Layer
+   Violation between Pad U$4-EXP(87.376mm,175.26mm)  Top Layer and 
+                     Pad U$4-BIAS(89.62598mm,171.98503mm)  Top Layer
+   Violation between Track (89.03101mm,172.20499mm)(89.22101mm,172.20499mm)  Top Solder and 
+                     Pad U$4-BIAS(89.62598mm,171.98503mm)  Top Layer
+   Violation between Track (89.22101mm,171.76501mm)(89.22101mm,172.20499mm)  Top Solder and 
+                     Pad U$4-BIAS(89.62598mm,171.98503mm)  Top Layer
+   Violation between Track (89.03101mm,171.76501mm)(89.22101mm,171.76501mm)  Top Solder and 
+                     Pad U$4-BIAS(89.62598mm,171.98503mm)  Top Layer
+   Violation between Track (89.12601mm,171.815mm)(89.12601mm,172.155mm)  Top Solder and 
+                     Pad U$4-BIAS(89.62598mm,171.98503mm)  Top Layer
+   Violation between Track (90.043mm,171.76501mm)(90.043mm,172.20499mm)  Top Solder and 
+                     Pad U$4-BIAS(89.62598mm,171.98503mm)  Top Layer
+   Violation between Track (90.043mm,172.20499mm)(90.2462mm,172.20499mm)  Top Solder and 
+                     Pad U$4-BIAS(89.62598mm,171.98503mm)  Top Layer
+   Violation between Track (90.043mm,171.76501mm)(90.2462mm,171.76501mm)  Top Solder and 
+                     Pad U$4-BIAS(89.62598mm,171.98503mm)  Top Layer
+   Violation between Track (90.1446mm,171.815mm)(90.1446mm,172.155mm)  Top Solder and 
+                     Pad U$4-BIAS(89.62598mm,171.98503mm)  Top Layer
+   Violation between Pad U$4-EXP(87.376mm,175.26mm)  Top Layer and 
+                     Pad U$4-AGND(89.12601mm,171.98503mm)  Top Layer
+   Violation between Track (88.53099mm,172.20499mm)(88.72098mm,172.20499mm)  Top Solder and 
+                     Pad U$4-AGND(89.12601mm,171.98503mm)  Top Layer
+   Violation between Track (88.72098mm,171.76501mm)(88.72098mm,172.20499mm)  Top Solder and 
+                     Pad U$4-AGND(89.12601mm,171.98503mm)  Top Layer
+   Violation between Track (88.53099mm,171.76501mm)(88.72098mm,171.76501mm)  Top Solder and 
+                     Pad U$4-AGND(89.12601mm,171.98503mm)  Top Layer
+   Violation between Track (88.62598mm,171.815mm)(88.62598mm,172.155mm)  Top Solder and 
+                     Pad U$4-AGND(89.12601mm,171.98503mm)  Top Layer
+   Violation between Track (89.53099mm,171.76501mm)(89.53099mm,172.20499mm)  Top Solder and 
+                     Pad U$4-AGND(89.12601mm,171.98503mm)  Top Layer
+   Violation between Track (89.53099mm,172.20499mm)(89.72098mm,172.20499mm)  Top Solder and 
+                     Pad U$4-AGND(89.12601mm,171.98503mm)  Top Layer
+   Violation between Track (89.53099mm,171.76501mm)(89.72098mm,171.76501mm)  Top Solder and 
+                     Pad U$4-AGND(89.12601mm,171.98503mm)  Top Layer
+   Violation between Track (89.62598mm,171.815mm)(89.62598mm,172.155mm)  Top Solder and 
+                     Pad U$4-AGND(89.12601mm,171.98503mm)  Top Layer
+   Violation between Pad U$4-EXP(87.376mm,175.26mm)  Top Layer and 
+                     Pad U$4-APS(88.62598mm,171.98503mm)  Top Layer
+   Violation between Track (88.03102mm,172.20499mm)(88.22101mm,172.20499mm)  Top Solder and 
+                     Pad U$4-APS(88.62598mm,171.98503mm)  Top Layer
+   Violation between Track (88.22101mm,171.76501mm)(88.22101mm,172.20499mm)  Top Solder and 
+                     Pad U$4-APS(88.62598mm,171.98503mm)  Top Layer
+   Violation between Track (88.03102mm,171.76501mm)(88.22101mm,171.76501mm)  Top Solder and 
+                     Pad U$4-APS(88.62598mm,171.98503mm)  Top Layer
+   Violation between Track (88.12601mm,171.815mm)(88.12601mm,172.155mm)  Top Solder and 
+                     Pad U$4-APS(88.62598mm,171.98503mm)  Top Layer
+   Violation between Track (89.03101mm,171.76501mm)(89.03101mm,172.20499mm)  Top Solder and 
+                     Pad U$4-APS(88.62598mm,171.98503mm)  Top Layer
+   Violation between Track (89.03101mm,172.20499mm)(89.22101mm,172.20499mm)  Top Solder and 
+                     Pad U$4-APS(88.62598mm,171.98503mm)  Top Layer
+   Violation between Track (89.03101mm,171.76501mm)(89.22101mm,171.76501mm)  Top Solder and 
+                     Pad U$4-APS(88.62598mm,171.98503mm)  Top Layer
+   Violation between Track (89.12601mm,171.815mm)(89.12601mm,172.155mm)  Top Solder and 
+                     Pad U$4-APS(88.62598mm,171.98503mm)  Top Layer
+   Violation between Pad U$4-EXP(87.376mm,175.26mm)  Top Layer and 
+                     Pad U$4-EXTEN(88.12601mm,171.98503mm)  Top Layer
+   Violation between Track (87.53099mm,172.20499mm)(87.72098mm,172.20499mm)  Top Solder and 
+                     Pad U$4-EXTEN(88.12601mm,171.98503mm)  Top Layer
+   Violation between Track (87.72098mm,171.76501mm)(87.72098mm,172.20499mm)  Top Solder and 
+                     Pad U$4-EXTEN(88.12601mm,171.98503mm)  Top Layer
+   Violation between Track (87.53099mm,171.76501mm)(87.72098mm,171.76501mm)  Top Solder and 
+                     Pad U$4-EXTEN(88.12601mm,171.98503mm)  Top Layer
+   Violation between Track (87.62599mm,171.815mm)(87.62599mm,172.155mm)  Top Solder and 
+                     Pad U$4-EXTEN(88.12601mm,171.98503mm)  Top Layer
+   Violation between Track (88.53099mm,171.76501mm)(88.53099mm,172.20499mm)  Top Solder and 
+                     Pad U$4-EXTEN(88.12601mm,171.98503mm)  Top Layer
+   Violation between Track (88.53099mm,172.20499mm)(88.72098mm,172.20499mm)  Top Solder and 
+                     Pad U$4-EXTEN(88.12601mm,171.98503mm)  Top Layer
+   Violation between Track (88.53099mm,171.76501mm)(88.72098mm,171.76501mm)  Top Solder and 
+                     Pad U$4-EXTEN(88.12601mm,171.98503mm)  Top Layer
+   Violation between Track (88.62598mm,171.815mm)(88.62598mm,172.155mm)  Top Solder and 
+                     Pad U$4-EXTEN(88.12601mm,171.98503mm)  Top Layer
+   Violation between Pad U$4-EXP(87.376mm,175.26mm)  Top Layer and 
+                     Pad U$4-GPIO0(87.62599mm,171.98503mm)  Top Layer
+   Violation between Track (87.03102mm,172.20499mm)(87.22101mm,172.20499mm)  Top Solder and 
+                     Pad U$4-GPIO0(87.62599mm,171.98503mm)  Top Layer
+   Violation between Track (87.22101mm,171.76501mm)(87.22101mm,172.20499mm)  Top Solder and 
+                     Pad U$4-GPIO0(87.62599mm,171.98503mm)  Top Layer
+   Violation between Track (87.03102mm,171.76501mm)(87.22101mm,171.76501mm)  Top Solder and 
+                     Pad U$4-GPIO0(87.62599mm,171.98503mm)  Top Layer
+   Violation between Track (87.12601mm,171.815mm)(87.12601mm,172.155mm)  Top Solder and 
+                     Pad U$4-GPIO0(87.62599mm,171.98503mm)  Top Layer
+   Violation between Track (88.03102mm,171.76501mm)(88.03102mm,172.20499mm)  Top Solder and 
+                     Pad U$4-GPIO0(87.62599mm,171.98503mm)  Top Layer
+   Violation between Track (88.03102mm,172.20499mm)(88.22101mm,172.20499mm)  Top Solder and 
+                     Pad U$4-GPIO0(87.62599mm,171.98503mm)  Top Layer
+   Violation between Track (88.03102mm,171.76501mm)(88.22101mm,171.76501mm)  Top Solder and 
+                     Pad U$4-GPIO0(87.62599mm,171.98503mm)  Top Layer
+   Violation between Track (88.12601mm,171.815mm)(88.12601mm,172.155mm)  Top Solder and 
+                     Pad U$4-GPIO0(87.62599mm,171.98503mm)  Top Layer
+   Violation between Pad U$4-EXP(87.376mm,175.26mm)  Top Layer and 
+                     Pad U$4-GPIO1(87.12601mm,171.98503mm)  Top Layer
+   Violation between Track (86.53099mm,172.20499mm)(86.72098mm,172.20499mm)  Top Solder and 
+                     Pad U$4-GPIO1(87.12601mm,171.98503mm)  Top Layer
+   Violation between Track (86.72098mm,171.76501mm)(86.72098mm,172.20499mm)  Top Solder and 
+                     Pad U$4-GPIO1(87.12601mm,171.98503mm)  Top Layer
+   Violation between Track (86.53099mm,171.76501mm)(86.72098mm,171.76501mm)  Top Solder and 
+                     Pad U$4-GPIO1(87.12601mm,171.98503mm)  Top Layer
+   Violation between Track (86.62599mm,171.815mm)(86.62599mm,172.155mm)  Top Solder and 
+                     Pad U$4-GPIO1(87.12601mm,171.98503mm)  Top Layer
+   Violation between Track (87.53099mm,171.76501mm)(87.53099mm,172.20499mm)  Top Solder and 
+                     Pad U$4-GPIO1(87.12601mm,171.98503mm)  Top Layer
+   Violation between Track (87.53099mm,172.20499mm)(87.72098mm,172.20499mm)  Top Solder and 
+                     Pad U$4-GPIO1(87.12601mm,171.98503mm)  Top Layer
+   Violation between Track (87.53099mm,171.76501mm)(87.72098mm,171.76501mm)  Top Solder and 
+                     Pad U$4-GPIO1(87.12601mm,171.98503mm)  Top Layer
+   Violation between Track (87.62599mm,171.815mm)(87.62599mm,172.155mm)  Top Solder and 
+                     Pad U$4-GPIO1(87.12601mm,171.98503mm)  Top Layer
+   Violation between Pad U$4-EXP(87.376mm,175.26mm)  Top Layer and 
+                     Pad U$4-DCDC3(86.62599mm,171.98503mm)  Top Layer
+   Violation between Track (86.03102mm,172.20499mm)(86.22101mm,172.20499mm)  Top Solder and 
+                     Pad U$4-DCDC3(86.62599mm,171.98503mm)  Top Layer
+   Violation between Track (86.22101mm,171.76501mm)(86.22101mm,172.20499mm)  Top Solder and 
+                     Pad U$4-DCDC3(86.62599mm,171.98503mm)  Top Layer
+   Violation between Track (86.03102mm,171.76501mm)(86.22101mm,171.76501mm)  Top Solder and 
+                     Pad U$4-DCDC3(86.62599mm,171.98503mm)  Top Layer
+   Violation between Track (86.12602mm,171.815mm)(86.12602mm,172.155mm)  Top Solder and 
+                     Pad U$4-DCDC3(86.62599mm,171.98503mm)  Top Layer
+   Violation between Track (87.03102mm,171.76501mm)(87.03102mm,172.20499mm)  Top Solder and 
+                     Pad U$4-DCDC3(86.62599mm,171.98503mm)  Top Layer
+   Violation between Track (87.03102mm,172.20499mm)(87.22101mm,172.20499mm)  Top Solder and 
+                     Pad U$4-DCDC3(86.62599mm,171.98503mm)  Top Layer
+   Violation between Track (87.03102mm,171.76501mm)(87.22101mm,171.76501mm)  Top Solder and 
+                     Pad U$4-DCDC3(86.62599mm,171.98503mm)  Top Layer
+   Violation between Track (87.12601mm,171.815mm)(87.12601mm,172.155mm)  Top Solder and 
+                     Pad U$4-DCDC3(86.62599mm,171.98503mm)  Top Layer
+   Violation between Pad U$4-EXP(87.376mm,175.26mm)  Top Layer and 
+                     Pad U$4-PGND3(86.12602mm,171.98503mm)  Top Layer
+   Violation between Track (85.53099mm,172.20499mm)(85.72099mm,172.20499mm)  Top Solder and 
+                     Pad U$4-PGND3(86.12602mm,171.98503mm)  Top Layer
+   Violation between Track (85.72099mm,171.76501mm)(85.72099mm,172.20499mm)  Top Solder and 
+                     Pad U$4-PGND3(86.12602mm,171.98503mm)  Top Layer
+   Violation between Track (85.53099mm,171.76501mm)(85.72099mm,171.76501mm)  Top Solder and 
+                     Pad U$4-PGND3(86.12602mm,171.98503mm)  Top Layer
+   Violation between Track (85.62599mm,171.815mm)(85.62599mm,172.155mm)  Top Solder and 
+                     Pad U$4-PGND3(86.12602mm,171.98503mm)  Top Layer
+   Violation between Track (86.53099mm,171.76501mm)(86.53099mm,172.20499mm)  Top Solder and 
+                     Pad U$4-PGND3(86.12602mm,171.98503mm)  Top Layer
+   Violation between Track (86.53099mm,172.20499mm)(86.72098mm,172.20499mm)  Top Solder and 
+                     Pad U$4-PGND3(86.12602mm,171.98503mm)  Top Layer
+   Violation between Track (86.53099mm,171.76501mm)(86.72098mm,171.76501mm)  Top Solder and 
+                     Pad U$4-PGND3(86.12602mm,171.98503mm)  Top Layer
+   Violation between Track (86.62599mm,171.815mm)(86.62599mm,172.155mm)  Top Solder and 
+                     Pad U$4-PGND3(86.12602mm,171.98503mm)  Top Layer
+   Violation between Pad U$4-EXP(87.376mm,175.26mm)  Top Layer and 
+                     Pad U$4-LX(85.62599mm,171.98503mm)  Top Layer
+   Violation between Track (85.03102mm,172.20499mm)(85.22101mm,172.20499mm)  Top Solder and 
+                     Pad U$4-LX(85.62599mm,171.98503mm)  Top Layer
+   Violation between Track (85.22101mm,171.76501mm)(85.22101mm,172.20499mm)  Top Solder and 
+                     Pad U$4-LX(85.62599mm,171.98503mm)  Top Layer
+   Violation between Track (85.03102mm,171.76501mm)(85.22101mm,171.76501mm)  Top Solder and 
+                     Pad U$4-LX(85.62599mm,171.98503mm)  Top Layer
+   Violation between Track (85.12602mm,171.815mm)(85.12602mm,172.155mm)  Top Solder and 
+                     Pad U$4-LX(85.62599mm,171.98503mm)  Top Layer
+   Violation between Track (86.03102mm,171.76501mm)(86.03102mm,172.20499mm)  Top Solder and 
+                     Pad U$4-LX(85.62599mm,171.98503mm)  Top Layer
+   Violation between Track (86.03102mm,172.20499mm)(86.22101mm,172.20499mm)  Top Solder and 
+                     Pad U$4-LX(85.62599mm,171.98503mm)  Top Layer
+   Violation between Track (86.03102mm,171.76501mm)(86.22101mm,171.76501mm)  Top Solder and 
+                     Pad U$4-LX(85.62599mm,171.98503mm)  Top Layer
+   Violation between Track (86.12602mm,171.815mm)(86.12602mm,172.155mm)  Top Solder and 
+                     Pad U$4-LX(85.62599mm,171.98503mm)  Top Layer
+   Violation between Pad U$4-EXP(87.376mm,175.26mm)  Top Layer and 
+                     Pad U$4-VIN3(85.12602mm,171.98503mm)  Top Layer
+   Violation between Track (84.531mm,172.20499mm)(84.72099mm,172.20499mm)  Top Solder and 
+                     Pad U$4-VIN3(85.12602mm,171.98503mm)  Top Layer
+   Violation between Track (84.72099mm,171.76501mm)(84.72099mm,172.20499mm)  Top Solder and 
+                     Pad U$4-VIN3(85.12602mm,171.98503mm)  Top Layer
+   Violation between Track (84.531mm,171.76501mm)(84.72099mm,171.76501mm)  Top Solder and 
+                     Pad U$4-VIN3(85.12602mm,171.98503mm)  Top Layer
+   Violation between Track (84.62599mm,171.815mm)(84.62599mm,172.155mm)  Top Solder and 
+                     Pad U$4-VIN3(85.12602mm,171.98503mm)  Top Layer
+   Violation between Track (85.53099mm,171.76501mm)(85.53099mm,172.20499mm)  Top Solder and 
+                     Pad U$4-VIN3(85.12602mm,171.98503mm)  Top Layer
+   Violation between Track (85.53099mm,172.20499mm)(85.72099mm,172.20499mm)  Top Solder and 
+                     Pad U$4-VIN3(85.12602mm,171.98503mm)  Top Layer
+   Violation between Track (85.53099mm,171.76501mm)(85.72099mm,171.76501mm)  Top Solder and 
+                     Pad U$4-VIN3(85.12602mm,171.98503mm)  Top Layer
+   Violation between Track (85.62599mm,171.815mm)(85.62599mm,172.155mm)  Top Solder and 
+                     Pad U$4-VIN3(85.12602mm,171.98503mm)  Top Layer
+   Violation between Pad U$4-EXP(87.376mm,175.26mm)  Top Layer and 
+                     Pad U$4-LDO24IN(84.62599mm,171.98503mm)  Top Layer
+   Violation between Track (83.88101mm,172.60499mm)(84.32099mm,172.60499mm)  Top Solder and 
+                     Pad U$4-LDO24IN(84.62599mm,171.98503mm)  Top Layer
+   Violation between Track (84.32099mm,172.415mm)(84.32099mm,172.60499mm)  Top Solder and 
+                     Pad U$4-LDO24IN(84.62599mm,171.98503mm)  Top Layer
+   Violation between Track (83.88101mm,172.415mm)(84.32099mm,172.415mm)  Top Solder and 
+                     Pad U$4-LDO24IN(84.62599mm,171.98503mm)  Top Layer
+   Violation between Track (83.931mm,172.50999mm)(84.271mm,172.50999mm)  Top Solder and 
+                     Pad U$4-LDO24IN(84.62599mm,171.98503mm)  Top Layer
+   Violation between Track (85.03102mm,171.76501mm)(85.03102mm,172.20499mm)  Top Solder and 
+                     Pad U$4-LDO24IN(84.62599mm,171.98503mm)  Top Layer
+   Violation between Track (85.03102mm,172.20499mm)(85.22101mm,172.20499mm)  Top Solder and 
+                     Pad U$4-LDO24IN(84.62599mm,171.98503mm)  Top Layer
+   Violation between Track (85.03102mm,171.76501mm)(85.22101mm,171.76501mm)  Top Solder and 
+                     Pad U$4-LDO24IN(84.62599mm,171.98503mm)  Top Layer
+   Violation between Track (85.12602mm,171.815mm)(85.12602mm,172.155mm)  Top Solder and 
+                     Pad U$4-LDO24IN(84.62599mm,171.98503mm)  Top Layer
+   Violation between Pad U$4-EXP(87.376mm,175.26mm)  Top Layer and 
+                     Pad U$4-LDO2(84.10103mm,172.50999mm)  Top Layer
+   Violation between Track (84.531mm,171.76501mm)(84.531mm,172.20499mm)  Top Solder and 
+                     Pad U$4-LDO2(84.10103mm,172.50999mm)  Top Layer
+   Violation between Track (84.531mm,172.20499mm)(84.72099mm,172.20499mm)  Top Solder and 
+                     Pad U$4-LDO2(84.10103mm,172.50999mm)  Top Layer
+   Violation between Track (84.72099mm,171.76501mm)(84.72099mm,172.20499mm)  Top Solder and 
+                     Pad U$4-LDO2(84.10103mm,172.50999mm)  Top Layer
+   Violation between Track (84.62599mm,171.815mm)(84.62599mm,172.155mm)  Top Solder and 
+                     Pad U$4-LDO2(84.10103mm,172.50999mm)  Top Layer
+   Violation between Track (84.32099mm,172.91502mm)(84.32099mm,173.10501mm)  Top Solder and 
+                     Pad U$4-LDO2(84.10103mm,172.50999mm)  Top Layer
+   Violation between Track (83.88101mm,172.91502mm)(84.32099mm,172.91502mm)  Top Solder and 
+                     Pad U$4-LDO2(84.10103mm,172.50999mm)  Top Layer
+   Violation between Track (83.88101mm,172.91502mm)(83.88101mm,173.10501mm)  Top Solder and 
+                     Pad U$4-LDO2(84.10103mm,172.50999mm)  Top Layer
+   Violation between Track (83.931mm,173.01002mm)(84.271mm,173.01002mm)  Top Solder and 
+                     Pad U$4-LDO2(84.10103mm,172.50999mm)  Top Layer
+   Violation between Pad U$4-EXP(87.376mm,175.26mm)  Top Layer and 
+                     Pad U$4-LDO4(84.10103mm,173.01002mm)  Top Layer
+   Violation between Track (83.88101mm,172.60499mm)(84.32099mm,172.60499mm)  Top Solder and 
+                     Pad U$4-LDO4(84.10103mm,173.01002mm)  Top Layer
+   Violation between Track (84.32099mm,172.415mm)(84.32099mm,172.60499mm)  Top Solder and 
+                     Pad U$4-LDO4(84.10103mm,173.01002mm)  Top Layer
+   Violation between Track (83.88101mm,172.415mm)(83.88101mm,172.60499mm)  Top Solder and 
+                     Pad U$4-LDO4(84.10103mm,173.01002mm)  Top Layer
+   Violation between Track (83.931mm,172.50999mm)(84.271mm,172.50999mm)  Top Solder and 
+                     Pad U$4-LDO4(84.10103mm,173.01002mm)  Top Layer
+   Violation between Track (84.32099mm,173.41499mm)(84.32099mm,173.60499mm)  Top Solder and 
+                     Pad U$4-LDO4(84.10103mm,173.01002mm)  Top Layer
+   Violation between Track (83.88101mm,173.41499mm)(84.32099mm,173.41499mm)  Top Solder and 
+                     Pad U$4-LDO4(84.10103mm,173.01002mm)  Top Layer
+   Violation between Track (83.88101mm,173.41499mm)(83.88101mm,173.60499mm)  Top Solder and 
+                     Pad U$4-LDO4(84.10103mm,173.01002mm)  Top Layer
+   Violation between Track (83.931mm,173.50999mm)(84.271mm,173.50999mm)  Top Solder and 
+                     Pad U$4-LDO4(84.10103mm,173.01002mm)  Top Layer
+   Violation between Pad U$4-EXP(87.376mm,175.26mm)  Top Layer and 
+                     Pad U$4-DCDC2(84.10103mm,173.50999mm)  Top Layer
+   Violation between Track (84.32099mm,173.91502mm)(84.32099mm,174.10501mm)  Top Solder and 
+                     Pad U$4-DCDC2(84.10103mm,173.50999mm)  Top Layer
+   Violation between Track (83.88101mm,173.91502mm)(84.32099mm,173.91502mm)  Top Solder and 
+                     Pad U$4-DCDC2(84.10103mm,173.50999mm)  Top Layer
+   Violation between Track (83.88101mm,173.91502mm)(83.88101mm,174.10501mm)  Top Solder and 
+                     Pad U$4-DCDC2(84.10103mm,173.50999mm)  Top Layer
+   Violation between Track (83.931mm,174.01002mm)(84.271mm,174.01002mm)  Top Solder and 
+                     Pad U$4-DCDC2(84.10103mm,173.50999mm)  Top Layer
+   Violation between Track (83.88101mm,173.10501mm)(84.32099mm,173.10501mm)  Top Solder and 
+                     Pad U$4-DCDC2(84.10103mm,173.50999mm)  Top Layer
+   Violation between Track (84.32099mm,172.91502mm)(84.32099mm,173.10501mm)  Top Solder and 
+                     Pad U$4-DCDC2(84.10103mm,173.50999mm)  Top Layer
+   Violation between Track (83.88101mm,172.91502mm)(83.88101mm,173.10501mm)  Top Solder and 
+                     Pad U$4-DCDC2(84.10103mm,173.50999mm)  Top Layer
+   Violation between Track (83.931mm,173.01002mm)(84.271mm,173.01002mm)  Top Solder and 
+                     Pad U$4-DCDC2(84.10103mm,173.50999mm)  Top Layer
+   Violation between Pad U$4-EXP(87.376mm,175.26mm)  Top Layer and 
+                     Pad U$4-PGND2(84.10103mm,174.01002mm)  Top Layer
+   Violation between Track (84.32099mm,174.41499mm)(84.32099mm,174.60498mm)  Top Solder and 
+                     Pad U$4-PGND2(84.10103mm,174.01002mm)  Top Layer
+   Violation between Track (83.88101mm,174.41499mm)(84.32099mm,174.41499mm)  Top Solder and 
+                     Pad U$4-PGND2(84.10103mm,174.01002mm)  Top Layer
+   Violation between Track (83.88101mm,174.41499mm)(83.88101mm,174.60498mm)  Top Solder and 
+                     Pad U$4-PGND2(84.10103mm,174.01002mm)  Top Layer
+   Violation between Track (83.931mm,174.50999mm)(84.271mm,174.50999mm)  Top Solder and 
+                     Pad U$4-PGND2(84.10103mm,174.01002mm)  Top Layer
+   Violation between Track (83.88101mm,173.60499mm)(84.32099mm,173.60499mm)  Top Solder and 
+                     Pad U$4-PGND2(84.10103mm,174.01002mm)  Top Layer
+   Violation between Track (84.32099mm,173.41499mm)(84.32099mm,173.60499mm)  Top Solder and 
+                     Pad U$4-PGND2(84.10103mm,174.01002mm)  Top Layer
+   Violation between Track (83.88101mm,173.41499mm)(83.88101mm,173.60499mm)  Top Solder and 
+                     Pad U$4-PGND2(84.10103mm,174.01002mm)  Top Layer
+   Violation between Track (83.931mm,173.50999mm)(84.271mm,173.50999mm)  Top Solder and 
+                     Pad U$4-PGND2(84.10103mm,174.01002mm)  Top Layer
+   Violation between Pad U$4-EXP(87.376mm,175.26mm)  Top Layer and 
+                     Pad U$4-LX2(84.10103mm,174.50999mm)  Top Layer
+   Violation between Track (83.88101mm,174.10501mm)(84.32099mm,174.10501mm)  Top Solder and 
+                     Pad U$4-LX2(84.10103mm,174.50999mm)  Top Layer
+   Violation between Track (84.32099mm,173.91502mm)(84.32099mm,174.10501mm)  Top Solder and 
+                     Pad U$4-LX2(84.10103mm,174.50999mm)  Top Layer
+   Violation between Track (83.88101mm,173.91502mm)(83.88101mm,174.10501mm)  Top Solder and 
+                     Pad U$4-LX2(84.10103mm,174.50999mm)  Top Layer
+   Violation between Track (83.931mm,174.01002mm)(84.271mm,174.01002mm)  Top Solder and 
+                     Pad U$4-LX2(84.10103mm,174.50999mm)  Top Layer
+   Violation between Track (84.32099mm,174.91502mm)(84.32099mm,175.10501mm)  Top Solder and 
+                     Pad U$4-LX2(84.10103mm,174.50999mm)  Top Layer
+   Violation between Track (83.88101mm,174.91502mm)(84.32099mm,174.91502mm)  Top Solder and 
+                     Pad U$4-LX2(84.10103mm,174.50999mm)  Top Layer
+   Violation between Track (83.88101mm,174.91502mm)(83.88101mm,175.10501mm)  Top Solder and 
+                     Pad U$4-LX2(84.10103mm,174.50999mm)  Top Layer
+   Violation between Track (83.931mm,175.01001mm)(84.271mm,175.01001mm)  Top Solder and 
+                     Pad U$4-LX2(84.10103mm,174.50999mm)  Top Layer
+   Violation between Pad U$4-EXP(87.376mm,175.26mm)  Top Layer and 
+                     Pad U$4-VIN2(84.10103mm,175.01001mm)  Top Layer
+   Violation between Track (83.88101mm,174.60498mm)(84.32099mm,174.60498mm)  Top Solder and 
+                     Pad U$4-VIN2(84.10103mm,175.01001mm)  Top Layer
+   Violation between Track (84.32099mm,174.41499mm)(84.32099mm,174.60498mm)  Top Solder and 
+                     Pad U$4-VIN2(84.10103mm,175.01001mm)  Top Layer
+   Violation between Track (83.88101mm,174.41499mm)(83.88101mm,174.60498mm)  Top Solder and 
+                     Pad U$4-VIN2(84.10103mm,175.01001mm)  Top Layer
+   Violation between Track (83.931mm,174.50999mm)(84.271mm,174.50999mm)  Top Solder and 
+                     Pad U$4-VIN2(84.10103mm,175.01001mm)  Top Layer
+   Violation between Track (84.32099mm,175.41499mm)(84.32099mm,175.60498mm)  Top Solder and 
+                     Pad U$4-VIN2(84.10103mm,175.01001mm)  Top Layer
+   Violation between Track (83.88101mm,175.41499mm)(84.32099mm,175.41499mm)  Top Solder and 
+                     Pad U$4-VIN2(84.10103mm,175.01001mm)  Top Layer
+   Violation between Track (83.88101mm,175.41499mm)(83.88101mm,175.60498mm)  Top Solder and 
+                     Pad U$4-VIN2(84.10103mm,175.01001mm)  Top Layer
+   Violation between Track (83.931mm,175.50999mm)(84.271mm,175.50999mm)  Top Solder and 
+                     Pad U$4-VIN2(84.10103mm,175.01001mm)  Top Layer
+   Violation between Pad U$4-EXP(87.376mm,175.26mm)  Top Layer and 
+                     Pad U$4-N_VBUSEN(84.10103mm,175.50999mm)  Top Layer
+   Violation between Track (84.32099mm,175.91502mm)(84.32099mm,176.10501mm)  Top Solder and 
+                     Pad U$4-N_VBUSEN(84.10103mm,175.50999mm)  Top Layer
+   Violation between Track (83.88101mm,175.91502mm)(84.32099mm,175.91502mm)  Top Solder and 
+                     Pad U$4-N_VBUSEN(84.10103mm,175.50999mm)  Top Layer
+   Violation between Track (83.88101mm,175.91502mm)(83.88101mm,176.10501mm)  Top Solder and 
+                     Pad U$4-N_VBUSEN(84.10103mm,175.50999mm)  Top Layer
+   Violation between Track (83.931mm,176.01001mm)(84.271mm,176.01001mm)  Top Solder and 
+                     Pad U$4-N_VBUSEN(84.10103mm,175.50999mm)  Top Layer
+   Violation between Track (83.88101mm,175.10501mm)(84.32099mm,175.10501mm)  Top Solder and 
+                     Pad U$4-N_VBUSEN(84.10103mm,175.50999mm)  Top Layer
+   Violation between Track (84.32099mm,174.91502mm)(84.32099mm,175.10501mm)  Top Solder and 
+                     Pad U$4-N_VBUSEN(84.10103mm,175.50999mm)  Top Layer
+   Violation between Track (83.88101mm,174.91502mm)(83.88101mm,175.10501mm)  Top Solder and 
+                     Pad U$4-N_VBUSEN(84.10103mm,175.50999mm)  Top Layer
+   Violation between Track (83.931mm,175.01001mm)(84.271mm,175.01001mm)  Top Solder and 
+                     Pad U$4-N_VBUSEN(84.10103mm,175.50999mm)  Top Layer
+   Violation between Pad U$4-EXP(87.376mm,175.26mm)  Top Layer and 
+                     Pad U$4-GPIO2(84.10103mm,176.01001mm)  Top Layer
+   Violation between Track (84.32099mm,176.41499mm)(84.32099mm,176.60498mm)  Top Solder and 
+                     Pad U$4-GPIO2(84.10103mm,176.01001mm)  Top Layer
+   Violation between Track (83.88101mm,176.41499mm)(84.32099mm,176.41499mm)  Top Solder and 
+                     Pad U$4-GPIO2(84.10103mm,176.01001mm)  Top Layer
+   Violation between Track (83.88101mm,176.41499mm)(83.88101mm,176.60498mm)  Top Solder and 
+                     Pad U$4-GPIO2(84.10103mm,176.01001mm)  Top Layer
+   Violation between Track (83.931mm,176.50998mm)(84.271mm,176.50998mm)  Top Solder and 
+                     Pad U$4-GPIO2(84.10103mm,176.01001mm)  Top Layer
+   Violation between Track (83.88101mm,175.60498mm)(84.32099mm,175.60498mm)  Top Solder and 
+                     Pad U$4-GPIO2(84.10103mm,176.01001mm)  Top Layer
+   Violation between Track (84.32099mm,175.41499mm)(84.32099mm,175.60498mm)  Top Solder and 
+                     Pad U$4-GPIO2(84.10103mm,176.01001mm)  Top Layer
+   Violation between Track (83.88101mm,175.41499mm)(83.88101mm,175.60498mm)  Top Solder and 
+                     Pad U$4-GPIO2(84.10103mm,176.01001mm)  Top Layer
+   Violation between Track (83.931mm,175.50999mm)(84.271mm,175.50999mm)  Top Solder and 
+                     Pad U$4-GPIO2(84.10103mm,176.01001mm)  Top Layer
+   Violation between Pad U$4-EXP(87.376mm,175.26mm)  Top Layer and 
+                     Pad U$4-N_OE(84.10103mm,176.50998mm)  Top Layer
+   Violation between Track (83.88101mm,176.10501mm)(84.32099mm,176.10501mm)  Top Solder and 
+                     Pad U$4-N_OE(84.10103mm,176.50998mm)  Top Layer
+   Violation between Track (84.32099mm,175.91502mm)(84.32099mm,176.10501mm)  Top Solder and 
+                     Pad U$4-N_OE(84.10103mm,176.50998mm)  Top Layer
+   Violation between Track (83.88101mm,175.91502mm)(83.88101mm,176.10501mm)  Top Solder and 
+                     Pad U$4-N_OE(84.10103mm,176.50998mm)  Top Layer
+   Violation between Track (83.931mm,176.01001mm)(84.271mm,176.01001mm)  Top Solder and 
+                     Pad U$4-N_OE(84.10103mm,176.50998mm)  Top Layer
+   Violation between Track (84.32099mm,176.91501mm)(84.32099mm,177.10501mm)  Top Solder and 
+                     Pad U$4-N_OE(84.10103mm,176.50998mm)  Top Layer
+   Violation between Track (83.88101mm,176.91501mm)(84.32099mm,176.91501mm)  Top Solder and 
+                     Pad U$4-N_OE(84.10103mm,176.50998mm)  Top Layer
+   Violation between Track (83.88101mm,176.91501mm)(83.88101mm,177.10501mm)  Top Solder and 
+                     Pad U$4-N_OE(84.10103mm,176.50998mm)  Top Layer
+   Violation between Track (83.931mm,177.01001mm)(84.271mm,177.01001mm)  Top Solder and 
+                     Pad U$4-N_OE(84.10103mm,176.50998mm)  Top Layer
+   Violation between Pad U$4-EXP(87.376mm,175.26mm)  Top Layer and 
+                     Pad U$4-GPIO3(84.10103mm,177.01001mm)  Top Layer
+   Violation between Track (83.88101mm,176.60498mm)(84.32099mm,176.60498mm)  Top Solder and 
+                     Pad U$4-GPIO3(84.10103mm,177.01001mm)  Top Layer
+   Violation between Track (84.32099mm,176.41499mm)(84.32099mm,176.60498mm)  Top Solder and 
+                     Pad U$4-GPIO3(84.10103mm,177.01001mm)  Top Layer
+   Violation between Track (83.88101mm,176.41499mm)(83.88101mm,176.60498mm)  Top Solder and 
+                     Pad U$4-GPIO3(84.10103mm,177.01001mm)  Top Layer
+   Violation between Track (83.931mm,176.50998mm)(84.271mm,176.50998mm)  Top Solder and 
+                     Pad U$4-GPIO3(84.10103mm,177.01001mm)  Top Layer
+   Violation between Track (84.32099mm,177.41499mm)(84.32099mm,177.60498mm)  Top Solder and 
+                     Pad U$4-GPIO3(84.10103mm,177.01001mm)  Top Layer
+   Violation between Track (83.88101mm,177.41499mm)(84.32099mm,177.41499mm)  Top Solder and 
+                     Pad U$4-GPIO3(84.10103mm,177.01001mm)  Top Layer
+   Violation between Track (83.88101mm,177.41499mm)(83.88101mm,177.60498mm)  Top Solder and 
+                     Pad U$4-GPIO3(84.10103mm,177.01001mm)  Top Layer
+   Violation between Track (83.931mm,177.50998mm)(84.271mm,177.50998mm)  Top Solder and 
+                     Pad U$4-GPIO3(84.10103mm,177.01001mm)  Top Layer
+   Violation between Pad U$4-EXP(87.376mm,175.26mm)  Top Layer and 
+                     Pad U$4-SCK(84.10103mm,177.50998mm)  Top Layer
+   Violation between Track (84.32099mm,177.927mm)(84.32099mm,178.1302mm)  Top Solder and 
+                     Pad U$4-SCK(84.10103mm,177.50998mm)  Top Layer
+   Violation between Track (83.88101mm,177.927mm)(84.32099mm,177.927mm)  Top Solder and 
+                     Pad U$4-SCK(84.10103mm,177.50998mm)  Top Layer
+   Violation between Track (83.88101mm,177.927mm)(83.88101mm,178.1302mm)  Top Solder and 
+                     Pad U$4-SCK(84.10103mm,177.50998mm)  Top Layer
+   Violation between Track (83.931mm,178.0286mm)(84.271mm,178.0286mm)  Top Solder and 
+                     Pad U$4-SCK(84.10103mm,177.50998mm)  Top Layer
+   Violation between Track (83.88101mm,177.10501mm)(84.32099mm,177.10501mm)  Top Solder and 
+                     Pad U$4-SCK(84.10103mm,177.50998mm)  Top Layer
+   Violation between Track (84.32099mm,176.91501mm)(84.32099mm,177.10501mm)  Top Solder and 
+                     Pad U$4-SCK(84.10103mm,177.50998mm)  Top Layer
+Rule Violations :421
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.0254mm) (Max=2.54mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+   Violation between Track (87.376mm,178.5366mm)(87.376mm,179.24379mm)  Top Layer and 
+                     Pad U$4-CHSENSE(87.12601mm,178.5366mm)  Top Layer
+   Violation between Track (87.376mm,170.8912mm)(87.376mm,178.5366mm)  Top Layer and 
+                     Pad U$4-CHSENSE(87.12601mm,178.5366mm)  Top Layer
+   Violation between Track (87.376mm,178.5366mm)(87.376mm,179.24379mm)  Top Layer and 
+                     Pad U$4-BATSENSE(87.62599mm,178.5366mm)  Top Layer
+   Violation between Track (87.376mm,170.8912mm)(87.376mm,178.5366mm)  Top Layer and 
+                     Pad U$4-BATSENSE(87.62599mm,178.5366mm)  Top Layer
+   Violation between Track (90.6526mm,176.50998mm)(90.6526mm,177.01001mm)  Top Layer and 
+                     Pad U$4-IPSOUT1(90.6526mm,177.01001mm)  Top Layer
+   Violation between Track (90.6526mm,177.01001mm)(92.05219mm,177.01001mm)  Top Layer and 
+                     Pad U$4-IPSOUT1(90.6526mm,177.01001mm)  Top Layer
+   Violation between Track (90.6526mm,176.50998mm)(90.7796mm,176.50998mm)  Top Layer and 
+                     Pad U$4-ACIN(90.6526mm,176.50998mm)  Top Layer
+   Violation between Track (90.7796mm,176.01001mm)(90.7796mm,176.50998mm)  Top Layer and 
+                     Pad U$4-ACIN(90.6526mm,176.50998mm)  Top Layer
+   Violation between Track (90.6526mm,176.50998mm)(90.6526mm,177.01001mm)  Top Layer and 
+                     Pad U$4-ACIN(90.6526mm,176.50998mm)  Top Layer
+   Violation between Track (90.6526mm,175.50999mm)(90.6526mm,176.01001mm)  Top Layer and 
+                     Pad U$4-ACIN1(90.6526mm,176.01001mm)  Top Layer
+   Violation between Track (90.6526mm,176.01001mm)(90.7796mm,176.01001mm)  Top Layer and 
+                     Pad U$4-ACIN1(90.6526mm,176.01001mm)  Top Layer
+   Violation between Track (90.7796mm,176.01001mm)(90.7796mm,176.50998mm)  Top Layer and 
+                     Pad U$4-ACIN1(90.6526mm,176.01001mm)  Top Layer
+   Violation between Track (90.6526mm,175.50999mm)(90.6526mm,176.01001mm)  Top Layer and 
+                     Pad U$4-VBUS(90.6526mm,175.50999mm)  Top Layer
+   Violation between Track (90.6526mm,174.50999mm)(91.0336mm,174.50999mm)  Top Layer and 
+                     Pad U$4-DC3SET(90.6526mm,174.50999mm)  Top Layer
+   Violation between Track (87.376mm,170.8912mm)(87.376mm,178.5366mm)  Top Layer and 
+                     Pad U$4-GPIO0(87.62599mm,171.98503mm)  Top Layer
+   Violation between Track (87.376mm,170.8912mm)(87.376mm,178.5366mm)  Top Layer and 
+                     Pad U$4-GPIO1(87.12601mm,171.98503mm)  Top Layer
+   Violation between Track (85.12602mm,171.9834mm)(85.12602mm,171.98503mm)  Top Layer and 
+                     Pad U$4-VIN3(85.12602mm,171.98503mm)  Top Layer
+   Violation between Track (84.62599mm,171.9834mm)(84.62599mm,171.98503mm)  Top Layer and 
+                     Pad U$4-LDO24IN(84.62599mm,171.98503mm)  Top Layer
+Rule Violations :18
+
+
+Violations Detected : 500
+Time Elapsed        : 00:00:02
